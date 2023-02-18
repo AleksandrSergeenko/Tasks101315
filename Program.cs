@@ -4,22 +4,19 @@
 782 -> 8
 918 -> 1 */
 
-/* Console.Write("Введите трёхзначное число: ");
-num = Convert.ToInt32(Console.ReadLine()!);
+/* 
+int num;
+Console.Write("Введите трёхзначное число: ");
+int.TryParse(Console.ReadLine()!, out num);
 
-for (int i = 1; i < 3 && (num >= 100 | num <= 999); i++)
+for (int i = 1; i < 5 && (num <= 100 | num > 999); i++)
 {
-    Console.Write(i + $"Это не трёхзначное число, введите ещё раз: ");
+    Console.Write(i + $" Это не трёхзначное число, введите ещё раз: ");
     num = Convert.ToInt32(Console.ReadLine()!);
 }
-if (num <= 99 | num >= 1000)
-{
-    Console.WriteLine($"Чтото пошло не так, программа прервана: ");
-    break;
-}
 num = num / 10 % 10;
-Console.WriteLine($"Вторая цифра введённого числа: {num}");
-break; */
+Console.WriteLine($"Вторая цифра введённого числа: {num}"); 
+*/
 
 
 /* Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
