@@ -1,0 +1,15 @@
+C:\Users\termi\Desktop\Tasks101315\obj\Debug\net6.0\Tasks101315.csproj.AssemblyReference.cache
+C:\Users\termi\Desktop\Tasks101315\obj\Debug\net6.0\Tasks101315.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\termi\Desktop\Tasks101315\obj\Debug\net6.0\Tasks101315.AssemblyInfoInputs.cache
+C:\Users\termi\Desktop\Tasks101315\obj\Debug\net6.0\Tasks101315.AssemblyInfo.cs
+C:\Users\termi\Desktop\Tasks101315\obj\Debug\net6.0\Tasks101315.csproj.CoreCompileInputs.cache
+C:\Users\termi\Desktop\Tasks101315\bin\Debug\net6.0\Tasks101315.exe
+C:\Users\termi\Desktop\Tasks101315\bin\Debug\net6.0\Tasks101315.deps.json
+C:\Users\termi\Desktop\Tasks101315\bin\Debug\net6.0\Tasks101315.runtimeconfig.json
+C:\Users\termi\Desktop\Tasks101315\bin\Debug\net6.0\Tasks101315.dll
+C:\Users\termi\Desktop\Tasks101315\bin\Debug\net6.0\Tasks101315.pdb
+C:\Users\termi\Desktop\Tasks101315\obj\Debug\net6.0\Tasks101315.dll
+C:\Users\termi\Desktop\Tasks101315\obj\Debug\net6.0\refint\Tasks101315.dll
+C:\Users\termi\Desktop\Tasks101315\obj\Debug\net6.0\Tasks101315.pdb
+C:\Users\termi\Desktop\Tasks101315\obj\Debug\net6.0\Tasks101315.genruntimeconfig.cache
+C:\Users\termi\Desktop\Tasks101315\obj\Debug\net6.0\ref\Tasks101315.dll
